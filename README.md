@@ -21,4 +21,3 @@ The top-30 most salient terms for Topic 1 can be interpreted as the following pa
 
 To further identify the main pain points of this study, sentiment analysis was conducted to zone in on the statements with negative sentiment scores. Consistent with the topic modelling results, outbound and inbound flight presentation was the most frustrating experience when completing flight bookings. Furthermore, users struggled when parsing through unnecessary flight information and found fare options and fees to be insufficient and inconsistent across airlines. 
 
-**Complete Sentiment Dataset**: https://docs.google.com/spreadsheets/d/e/2PACX-1vQyxYFZiA7JBHr3xwvUJcUVk3IEN63aYRJWconUDp98SCJXwxsv99uE1zqtObtYFw/pubhtml
