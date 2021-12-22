@@ -1,6 +1,6 @@
 **Abstract**
 
-The goal of this exploratory study was to assess the role of Google Flights as an effective and usable flight booking search service. In order to come up with actionable insights, text mining (word frequencies, topic modelling and sentiment analysis) was conducted on 3 user needs assessments and 3 think-aloud usability tests. The following is an overview of the data analysis:
+The goal of this exploratory study was to assess the role of Google Flights as an effective and usable flight booking search service. In order to come up with actionable insights, text mining (word frequencies, topic modelling and sentiment analysis) was conducted on 3 user needs assessments and 3 think-aloud usability tests. The following is an overview of the findings:
 
 **1. Word Frequencies**
 
