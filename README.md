@@ -19,5 +19,5 @@ The top-30 most salient terms for Topic 1 can be interpreted as the following pa
 
 **3. Sentiment Analysis**
 
-To further identify the main pain points of this study, sentiment analysis was conducted to zone in on the statements with negative sentiment scores. Consistent with the topic modelling results, outbound and inbound flight presentation as a 2-page format was the most frustrating experience when completing flight bookings. Furthermore, date picker requires user confirmation in order to saved selected dates, which was confusing for PPT03. In one instance, the participant selected her preferred dates and the calendar abruptly reverted to its original format when she clicked outside the box. 
+To further identify the main pain points of this study, sentiment analysis was conducted to zone in on the statements with negative sentiment scores. Consistent with the topic modelling results, outbound and inbound flight presentation as a 2-page format was the most frustrating experience when completing flight bookings. Furthermore, date picker required user confirmation in order to saved selected dates, which was confusing for PPT03. In one instance, the participant selected her preferred dates and the calendar abruptly reverted to its original format when she clicked outside the box. 
 
