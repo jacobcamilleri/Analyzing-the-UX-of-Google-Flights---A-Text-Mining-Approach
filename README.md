@@ -8,7 +8,7 @@ The goal of this exploratory study was to assess the role of Google Flights as a
 
   - Bigram: ‘Google flight’ was prominently featured as a bigram. Apart from reiterating Google Flights for clarity when reading task descriptions, PPT01 and PPT02 made comparisons between Google Flights, Skyscanner and the newly-discovered Google Explore. In that context, users found Google Flights to be less appealing and expressed a preference to explore organically.
 
-  - Trigram: ‘Coming seven days’ was the most popular trigram. PPT03 reiterated the word-level trigram for clarity when browsing through the calendar during date selection in Task 1. Overall, users found the the evaluation of flight prices in the dates view to be a positive UX attribute in this study. 
+  - Trigram: ‘Coming seven days’ was the most popular trigram. PPT03 reiterated the word-level trigram for clarity when browsing through the calendar during date selection in Task 1. Overall, users found the the evaluation of flight prices in the date picker to be a positive UX attribute in this study. 
 
 **2. Topic Modelling**
 
@@ -19,5 +19,5 @@ The top-30 most salient terms for Topic 1 can be interpreted as the following pa
 
 **3. Sentiment Analysis**
 
-To further identify the main pain points of this study, sentiment analysis was conducted to zone in on the statements with negative sentiment scores. Consistent with the topic modelling results, outbound and inbound flight presentation was the most frustrating experience when completing flight bookings. Furthermore, users struggled when parsing through unnecessary flight information and found fare options and fees to be insufficient and inconsistent across airlines. 
+To further identify the main pain points of this study, sentiment analysis was conducted to zone in on the statements with negative sentiment scores. Consistent with the topic modelling results, outbound and inbound flight presentation as a 2-page format was the most frustrating experience when completing flight bookings. Furthermore, date picker requires user confirmation in order to saved selected dates, which was confusing for PPT03. In one instance, the participant selected her preferred dates and the calendar abruptly reverted to its original format when she clicked outside the box. 
 
